@@ -31,4 +31,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I make a change in a branch when I like to create a new version without modifying the existing version.
+    This helps in preserving the existing verstion, while creating a new version, however at the cost of craeting
+    a complexicy in tracking the changes.
